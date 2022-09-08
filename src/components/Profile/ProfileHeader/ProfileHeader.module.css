@@ -1,0 +1,8 @@
+.profileInfo {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.profileInfo img {
+    width: 200px;
+}

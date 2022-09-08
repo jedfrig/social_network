@@ -1,0 +1,5 @@
+.footer {
+    grid-area: footer;
+    grid-column: 1/4;
+    background-color: skyblue;
+  }
