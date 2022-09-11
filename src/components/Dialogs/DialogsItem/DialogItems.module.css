@@ -1,0 +1,15 @@
+.user {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.user a {
+    text-decoration: none;
+    color: rgb(83, 0, 0);
+
+}
+
+.user a.active {
+    background-color: rgb(170, 170, 170);
+    padding: 10px;
+}
