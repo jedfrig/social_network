@@ -7,6 +7,15 @@
     padding: 20px;
 }
 
+.user a {
+    text-decoration: none;
+    color: rgb(83, 0, 0)
+}
+
+.user a.active {
+    color: rgb(255, 30, 30);
+}
+
 .messages {
     padding: 20px;
 }

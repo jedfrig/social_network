@@ -8,9 +8,9 @@ const Post = (props) => {
 
       <img src="https://www.blast.hk/attachments/64804/" alt="" />
 
-      <span>{props.message}</span>
+      <span>{props.post}</span>
       <div>
-        <span>Like</span>
+        <span>Like {props.likesCount}</span>
       </div>
     </div>
   );
